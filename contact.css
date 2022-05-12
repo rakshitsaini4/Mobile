@@ -1,0 +1,109 @@
+
+header{
+     background-color: darkslategrey;
+    margin: 0.3%;
+    padding: 0%;
+    display: flex;
+    flex-direction: row;
+ justify-content: space-between;
+ align-items: center;
+}
+ h1 {
+    text-transform: uppercase;
+    color: white;
+    margin: 1%;
+    padding-left: 0px;
+    font-family: 'oleo script';
+
+  }
+  ul {margin: px;
+    padding-left: px;
+    list-style: none;
+   
+     display: flex;
+    flex-direction: row;
+ justify-content:space-around  ;
+ justify-content: center;
+
+}
+ul li{color: white;
+
+    background-color:darkslategrey;
+    margin: 0%;
+    padding: 10px;
+    margin-right: 40px;
+    font-family:'fira sans';
+border-radius: 5px;
+}
+ul li a{color: white;
+     text-decoration:none;
+
+
+ }
+  body 
+  {
+        padding: 0px;
+        margin: 0px;
+        
+    }
+  
+header form{
+   border: 1px solid black; 
+   padding:0 px;
+   margin-top: 0px;
+   
+   background-image: url(bg.jpg);
+   image-resolution: 1;
+   background-position: center;
+   display: inline-block;
+   font-size: 20px;
+   color:black;
+}
+form input{
+    width: 500px;
+    height: 100px;
+    
+}
+header form label
+
+{
+  color: darkslategrey;
+ 
+  background-color: white;
+}
+
+input[type=text], select, textarea {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+      input[type=Email]{
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+        margin-top: 6px;
+        margin-bottom: 16px;
+        resize: vertical;
+      }
+   
+      input[type=SUBMIT] {
+        font-size: 30px;
+        color: darkslategrey;
+        background-color: white;
+        border: none;
+        border-radius: 0px;
+        cursor: pointer;
+      }
+footer{
+   background-color: darkslategrey;
+   padding: 1px;
+   border-top: 3px solid;
+border-bottom: 3px solid;
+} 
