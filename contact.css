@@ -98,6 +98,7 @@ input[type=text], select, textarea {
         color: darkslategrey;
         background-color: white;
         border: none;
+        border: 1px solid #ccc;
         border-radius: 0px;
         cursor: pointer;
       }
