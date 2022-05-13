@@ -78,7 +78,7 @@ b{
     height: 50px;
 }
 
-#mobiles ul_2 li{
+#mobiles ul li{
 
     justify-content: center;
     background-color: darkslategrey;
@@ -92,7 +92,7 @@ b{
 
 
 
-#mobiles ul_2 li img{
+#mobiles ul li img{
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     height: 200px;
