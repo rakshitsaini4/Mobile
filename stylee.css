@@ -65,7 +65,7 @@ ul li{color: white;
     font-family:'fira sans';
 border-radius: 5px;
 }
-ul_2 {margin: 5%;
+#mobiles ul {margin: 5%;
 
     padding-left: 0px;
     list-style: none;
@@ -75,7 +75,7 @@ ul_2 {margin: 5%;
  justify-content:space-around  ;
  justify-content: center;
 }
-ul_2 li{
+#mobiles ul li{
     color: whitesmoke;
 
     background-color: aqua;
@@ -92,14 +92,14 @@ border-top: 3px solid;
 border-bottom: 3px solid;
 
 }
-#mobiles ul_2 {
+#mobiles ul {
 
 display: ruby-text;
 grid-template-columns: 2fr 2fr;
 gap: 50px ;
 
 }
-#mobiles ul_2 li{
+#mobiles ul li{
     background-color: darkslategrey;
     width: 300px;
     height: 350px;
@@ -111,13 +111,13 @@ gap: 50px ;
 
 
 
-#mobiles ul_2 li img{
+#mobiles ul li img{
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     height: 220px;
     width: 300px;
 }
-#mobiles ul_2 li a{
+#mobiles ul li a{
     text-decoration: none;
     padding: 10px;
     background-color: whitesmoke;
